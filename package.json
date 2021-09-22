@@ -1,0 +1,7 @@
+{
+  "name": "php-docker-boilerplate",
+  "version": "1.0.0",
+  "main": "public/index.js",
+  "author": "Mohamed Essam Fathalla <mohamedessamfathalla@gmail.com>",
+  "license": "MIT"
+}

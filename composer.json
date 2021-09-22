@@ -1,0 +1,10 @@
+{
+    "name": "sarcasticgeek/php-docker-boilerplate",
+    "authors": [
+        {
+            "name": "Mohamed Essam Fathalla",
+            "email": "mohamedessamfathalla@gmail.com"
+        }
+    ],
+    "require": {}
+}
